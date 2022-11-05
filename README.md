@@ -84,4 +84,4 @@ anton.cetakInfo();
 
 
 * *Hasil output program:*
-![img]Screenshoot/1.png
+![img 1](Screenshoot/1.png)
