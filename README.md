@@ -2,11 +2,11 @@
 # Tugas Pertemuan 6
 ## Pemrograman Orientasi Objek
 
-sh
+````sh
 Nama   : Ikram Ramadhan
 Nim    : 312110478
 Matkul : Pemrograman Orientasi Objek
-````JAVA
+
 ### 1. File Manusia.java
 * *CODINGAN FILE 1 (Manusia):*
 package com.mycompany.tugaspbo;
